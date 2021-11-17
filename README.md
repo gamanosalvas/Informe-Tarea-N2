@@ -36,6 +36,8 @@ Especificos
 2. Marco Teorico (Resumen)
 Capitulo 3:
 
+![image](https://user-images.githubusercontent.com/94025287/142240763-413a094e-6595-447e-902e-69ecfd07d9c6.png)
+
 Capitulo 4:
 
 3. Explicación y Resolución de ejercicios o problemas
