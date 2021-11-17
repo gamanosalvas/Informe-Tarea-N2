@@ -40,6 +40,9 @@ Capitulo 3:
 
 Capitulo 4:
 
+![image](https://user-images.githubusercontent.com/94025287/142258838-cb553ce6-e60a-43ec-9db4-494f9c6f972c.png)
+
+
 3. Explicación y Resolución de ejercicios o problemas
 Ejercicios Capitulo 3:
 Ejercicios Capitulo 4:
