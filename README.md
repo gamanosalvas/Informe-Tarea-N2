@@ -57,7 +57,6 @@ Ejercicios Capitulo 3:
 ![image](https://user-images.githubusercontent.com/94025287/142415005-bf4cd404-df68-4b74-96fc-2d5df390b86c.png)
 ![image](https://user-images.githubusercontent.com/94025287/142415081-d671b099-9776-46c9-aab3-72ed76accb58.png)
 ![image](https://user-images.githubusercontent.com/94025287/142415112-39260458-f63f-48cb-92fc-c194ab98a071.png)
-
 ![image](https://user-images.githubusercontent.com/94025287/142341809-a5f82406-708a-415f-bb39-1cde82572de9.png)
 ![image](https://user-images.githubusercontent.com/94025287/142341840-faf8b8d8-3a0f-4632-a12b-7a5e313074fd.png)
 ![image](https://user-images.githubusercontent.com/94025287/142341915-3c1798d1-c6e9-45ca-9659-93df2c6e967b.png)
