@@ -54,6 +54,7 @@ Ejercicios Capitulo 3:
 ![image](https://user-images.githubusercontent.com/94025287/142341936-3428a510-2551-456d-920f-134e94ee4d06.png)
 
 Ejercicios Capitulo 4:
+
 ![image](https://user-images.githubusercontent.com/94025287/142341972-cf77f7d7-206a-418d-b4ba-658724048935.png)
 ![image](https://user-images.githubusercontent.com/94025287/142341986-fd8956cd-41b9-435c-8530-002c608336a1.png)
 ![image](https://user-images.githubusercontent.com/94025287/142342092-9c6f8a7a-01c7-4997-9aee-4da5c4b3199f.png)
