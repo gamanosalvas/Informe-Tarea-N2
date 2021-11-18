@@ -47,6 +47,7 @@ Capitulo 4:
 3. Explicación y Resolución de ejercicios o problemas
 
 Ejercicios Capitulo 3:
+
 ![image](https://user-images.githubusercontent.com/94025287/142414611-98212a7f-6722-4baf-8c2b-c8865f0d3ee3.png)
 ![image](https://user-images.githubusercontent.com/94025287/142414692-0cca7ced-a93a-4ccf-aafd-0fc0a7750533.png)
 ![image](https://user-images.githubusercontent.com/94025287/142414730-c04e1e3f-03aa-4aa8-b1c2-ea2be1f94ac6.png)
