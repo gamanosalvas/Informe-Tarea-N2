@@ -45,8 +45,12 @@ Capitulo 4:
 
 
 3. Explicación y Resolución de ejercicios o problemas
+
 Ejercicios Capitulo 3:
+
+
 Ejercicios Capitulo 4:
+
 
 4. Video
 
